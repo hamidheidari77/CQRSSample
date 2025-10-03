@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CQRS\\CQRSExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\mediator\\dimediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\mediator\\dimediator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\handlers\\getallproductshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\queries\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\interfaces\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\interfaces\\irequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\cqrs\\interfaces\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:cqrs\\interfaces\\irequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|c:\\projects\\cqrs\\cqrsexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B70871-B718-4919-BE84-9D804F8AA8B2}|CQRSExample.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:05:07.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DIMediator.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Mediator\\DIMediator.cs",
+              "RelativeDocumentMoniker": "CQRS\\Mediator\\DIMediator.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Mediator\\DIMediator.cs",
+              "RelativeToolTip": "CQRS\\Mediator\\DIMediator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:12:45.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:53:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "Controllers\\Products.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\Controllers\\Products.cs",
+              "RelativeToolTip": "Controllers\\Products.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:29:08.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Queries\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "CQRS\\Queries\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Queries\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "CQRS\\Queries\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:21:01.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllProductsHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Handlers\\GetAllProductsHandler.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Handlers\\GetAllProductsHandler.cs",
+              "RelativeToolTip": "CQRS\\Handlers\\GetAllProductsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:21:57.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Handlers\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Handlers\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Handlers\\CreateProductHandler.cs",
+              "RelativeToolTip": "CQRS\\Handlers\\CreateProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:19:15.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "CQRS\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "CQRS\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:17:19.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRequestHandler.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Interfaces\\IRequestHandler.cs",
+              "RelativeDocumentMoniker": "CQRS\\Interfaces\\IRequestHandler.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Interfaces\\IRequestHandler.cs",
+              "RelativeToolTip": "CQRS\\Interfaces\\IRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:08:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRequest.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Interfaces\\IRequest.cs",
+              "RelativeDocumentMoniker": "CQRS\\Interfaces\\IRequest.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\CQRS\\Interfaces\\IRequest.cs",
+              "RelativeToolTip": "CQRS\\Interfaces\\IRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:07:46.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T06:05:47.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\CQRS\\CQRSExample\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\CQRS\\CQRSExample\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T05:55:07.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
